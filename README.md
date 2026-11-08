@@ -12,7 +12,7 @@ Computer Engineering undergraduate at **UCLA**, specializing in real-time comput
   * C++ / Unreal Engine 5 pipeline tool integrating Autodesk Revit via Datasmith DLLs for instant 3D and VR walkthrough generation.
   * Developed proprietary bridge mechanics for high-throughput architectural translation and rapid real-time spatial iteration.
 
-* **[featherLITE Indie Studio](https://featherlite.club/)** *(Active Releases on [@featherlite](https://github.com/featherlite-software))*
+* **[featherLITE Indie Studio](https://featherlite.club/)**
   * My team makes video games!
 
 ---
