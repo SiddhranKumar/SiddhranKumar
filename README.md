@@ -13,7 +13,7 @@ Computer Engineering undergraduate at **UCLA**, specializing in real-time comput
   * Developed proprietary bridge mechanics for high-throughput architectural translation and rapid real-time spatial iteration.
 
 * **[featherLITE Indie Studio](https://featherlite.club/)**
-  * My team makes video games!
+  * My personal video game studio that me and my friends have made games under!
 
 ---
 
