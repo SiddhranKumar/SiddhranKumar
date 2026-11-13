@@ -9,7 +9,7 @@ Computer Engineering undergraduate at **UCLA**, specializing in real-time comput
 ### Featured Projects
 
 * **[WalkthroughPLUS](https://github.com/SiddhranKumar/WalkthroughPLUS-RevitPlugin)**
-  * C++ / Unreal Engine 5 pipeline tool integrating Autodesk Revit via Datasmith DLLs for instant 3D and VR walkthrough generation.
+  * C++ / Unreal Engine 5 pipeline tool integrating Autodesk Revit via Datasmith DLLs for instant 3D first-person style walkthrough generation.
   * Developed proprietary bridge mechanics for high-throughput architectural translation and rapid real-time spatial iteration.
 
 * **[featherLITE Indie Studio](https://featherlite.club/)**
